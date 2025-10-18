@@ -1,0 +1,3 @@
+module UrlLocation
+
+go 1.25.1
